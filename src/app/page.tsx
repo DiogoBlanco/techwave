@@ -5,9 +5,5 @@ export const viewport: Metadata = {
 };
 
 export default function Home() {
-  return (
-    <main className="container">
-      <h1>Techwave - Home</h1>
-    </main>
-  );
+  return <main className="container"></main>;
 }
